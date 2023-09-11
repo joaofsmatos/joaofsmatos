@@ -12,7 +12,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por 
 
 ### Linguagens e Tecnologias
 
-Aqui estão algumas das linguagens e tecnologias com as quais estou familiarizado:
+Aqui estão algumas das linguagens e tecnologias com as quais estou estudando:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
