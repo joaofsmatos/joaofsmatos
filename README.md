@@ -36,3 +36,8 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou estudando:
   <a href="https://www.linkedin.com/in/jo%C3%A3o-francisco-santos-de-matos-365a16264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<B>Meus Principais Projetos</B> 
+  <div >
+    <a href="https://github.com/JoaoFranciscoSM/SENAC-PWMB-1142735428-JoaoFrancisco">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoFranciscoSM&theme=dark&repo=SENAC-PWMB-1142735428-JoaoFrancisco"/>
+  </div>
