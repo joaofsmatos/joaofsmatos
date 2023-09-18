@@ -40,5 +40,5 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou estudando:
 ### Meus Principais Projetos
   <div >
     <a href="https://github.com/JoaoFranciscoSM/SENAC-PWMB-1142735428-JoaoFrancisco">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoFranciscoSM&theme=dark&repo=SENAC-PWMB-1142735428-JoaoFrancisco"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoFranciscoSM&theme=dark&layout=compact&repo=SENAC-PWMB-1142735428-JoaoFrancisco"/>
   </div>
