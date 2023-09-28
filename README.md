@@ -1,11 +1,4 @@
 ## Olá, mundo! Eu sou o João Francisco 👋
-<div align="center">
-  <a href="https://github.com/JoaoFranciscoSM">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JoaoFranciscoSM&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFranciscoSM&theme=dark&layout=compact"/>
-  
-</div>
-
 ### Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por tecnologia e programação, buscando aprimorar minhas habilidades e conhecimentos em diferentes áreas relacionadas à TI.
