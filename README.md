@@ -1,10 +1,10 @@
 ## Olá, mundo! Eu sou o João Francisco 👋
 ### Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por tecnologia e programação, buscando aprimorar minhas habilidades e conhecimentos em diferentes áreas relacionadas à TI.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por tecnologia e programação, buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento web (backend).
 
 - 🔭 Atualmente, estou trabalhando em projetos pessoais para aprofundar meus conhecimentos em desenvolvimento web.
-- 🌱 Atualmente, estou estudando Java, JavaScript, CSS e HTML para programação web.
+🌱 Atualmente, estou fortalecendo minha base em desenvolvimento backend com Java, incluindo Servlets, MySQL, JDBC e outros conceitos essenciais, enquanto simultaneamente estudo conceitos básicos de desenvolvimento frontend.
 - 👯 Estou aberto a colaborar em projetos de código aberto e aprender com a comunidade de desenvolvimento.
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Adoro resolver problemas e criar soluções tecnológicas inovadoras!
