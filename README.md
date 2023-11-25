@@ -28,10 +28,3 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou estudando:
   <a href = "mailto:joao.francisco.s.de.matos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-francisco-santos-de-matos-365a16264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-### Meus Principais Projetos
-  <div >
-    <a href="https://github.com/JoaoFranciscoSM/SENAC-PWMB-1142735428-JoaoFrancisco">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoFranciscoSM&theme=dark&layout=compact&repo=SENAC-PWMB-1142735428-JoaoFrancisco"/>
-  </div>
