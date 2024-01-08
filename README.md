@@ -1,23 +1,22 @@
 ## Olá, mundo! Eu sou o João Francisco 👋
 ### Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por tecnologia e programação, buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento web (backend).
+Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por tecnologia e programação, buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento backend.
 
-- 🔭 Atualmente, estou trabalhando em projetos pessoais para aprofundar meus conhecimentos em desenvolvimento web.
-- 🌱 Atualmente, estou fortalecendo minha base em desenvolvimento backend com Java, incluindo Servlets, MySQL, JDBC e outros conceitos essenciais, enquanto simultaneamente estudo conceitos básicos de desenvolvimento frontend.
+- 🔭 Atualmente, estou fortalecendo minha base em Java e Spring Boot, aprimorando conceitos fundamentais como API RESTful, JPA (Java Persistence API) , e o uso do Hibernate.
 - 👯 Estou aberto a colaborar em projetos de código aberto e aprender com a comunidade de desenvolvimento.
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Adoro resolver problemas e criar soluções tecnológicas inovadoras!
+- ⚡ Curiosidade: Adoro programar, minha linguagem preferida é o Java!
 
 ### Linguagens e Tecnologias
 
 Aqui estão algumas das linguagens e tecnologias com as quais estou estudando:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="Joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Joao-Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Joao-SB" src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Joao-Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Joao-SQL" src="https://img.shields.io/badge/-SQL-%23CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div>
 
 ##
