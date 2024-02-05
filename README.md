@@ -19,7 +19,19 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou estudando:
   <img align="center" alt="Joao-SQL" src="https://img.shields.io/badge/-SQL-%23CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div>
 
+<br>
+
+Aqui estão algumas das linguagens e tecnologias quais pretendo estudar:
+
+<div style="display: inline_block">
+  <img align="center" alt="Joao-Quarkus" src="https://img.shields.io/badge/-Quarkus-%23523337?style=for-the-badge&logo=quarkus&logoColor=white">
+  <img align="center" alt="Joao-Docker" src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Joao-Kubernetes" src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+</div>
+
 ##
+
+### Contatos
 
 <div> 
   <a href="https://instagram.com/joao.fr4ncisco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
